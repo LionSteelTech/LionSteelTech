@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Aslan Çelik 👋
 
-<!--
-**LionSteelTech/LionSteelTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Graduated from Kocaeli University Faculty of Medicine in 2016.
+- 💼 Currently working as an Occupational Physician in Istanbul.
+- 🌱 Completed 320-hour Full Stack Asp.NetCore 6.0 and 200-hour Python Application Development-Machine Learning training.
+- 🔍 Passionate about integrating health and technology to develop innovative solutions.
+- 🤝 Open to new collaborations and projects.
 
-Here are some ideas to get you started:
+## Clinical Experience
+- Occupational Medicine, Istanbul: Entrance exams, periodic examinations, detailed laboratory tests, and vaccination activities.
+- Emergency Medicine, Private Beykent Hospital, Istanbul: Management of various emergencies and minor surgical interventions.
+- Family Physician-Emergency Physician, Ovacık Integrated Hospital, Tunceli: Comprehensive patient follow-up and health services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education and Achievements
+- Courses on Tobacco Addiction and Smoking Cessation Treatments, Tuberculosis Infection Control, Breastfeeding Counseling.
+- Galway Cultural Institute, Ireland: C1 English Certificate.
+- European Language Culture Center, Istanbul: TELC B2 German Certificate.
+
+## Hobbies and Interests
+- 🏓 Enjoy playing Table Tennis and 🏀 Basketball.
+- ♟ Engaging in Chess and Go game to sharpen my mental skills.
+- 🎵 Play Ney and tin whistle amateurishly.
+- 📚 Interested in reading, sociology, history, and socio-cultural anthropology.
+
+## Contact
+- E-mail: aslancelik.nw@gmail.com
