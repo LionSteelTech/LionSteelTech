@@ -8,7 +8,7 @@
 - 🤝 Open to new collaborations and projects.
 
 ## Clinical Experience
-- Occupational Medicine, Istanbul: Entrance exams, periodic examinations, detailed laboratory tests, and vaccination activities.
+- Occupational Medicine, Istanbul: Employment report, periodic examinations, detailed laboratory tests, and vaccination services.
 - Emergency Medicine, Private Beykent Hospital, Istanbul: Management of various emergencies and minor surgical interventions.
 - Family Physician-Emergency Physician, Ovacık Integrated Hospital, Tunceli: Comprehensive patient follow-up and health services.
 
