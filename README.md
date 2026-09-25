@@ -1,4 +1,4 @@
-# Hello, I'm Aslan Çelik 👋
+# Hello, I'm Aslan Celik 👋
 
 ## About Me
 - 🎓 Graduated from Kocaeli University Faculty of Medicine in 2016.
